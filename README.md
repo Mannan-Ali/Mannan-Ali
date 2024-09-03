@@ -1,7 +1,6 @@
 # 🎧 Mannan Ali
 
 **`Tech Artisan | MERN & C++`**
-<img align='right'  src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 I'm a BTech student and aspiring developer, passionate about bringing my ideas to life through code.Eager to grow, share insights, and connect with a community of innovators and developers on GitHub.
 
@@ -19,17 +18,14 @@ I'm a BTech student and aspiring developer, passionate about bringing my ideas t
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-
-<br/>
-<br/>
-
-
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
 <br/>
 
+
 #
 
+<img align='right'  src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 ### 📊 Stats
 
