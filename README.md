@@ -27,4 +27,4 @@ I'm a BTech student and aspiring developer, passionate about bringing my ideas t
 
 ### 📊 Stats
 
-<p class="has-line-data" data-line-start="0" data-line-end="1"><img src="https://github-readme-stats.vercel.app/api?username=Mannan-Ali&amp;show_icons=true&amp;theme=transparent" alt="Anurag's GitHub stats"></p>
+![Mannan-Ali GitHub Stat's](https://github-readme-stats.vercel.app/api?username=Mannan-Ali&show_icons=true&theme=transparent)
