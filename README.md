@@ -1,8 +1,19 @@
 # 🎧 Mannan Ali
 
-**`Tech Artisan | MERN & C++`**
+**`Tech Artisan | MERN & Ethereum Developer`**
 
-I'm a BTech student and aspiring developer, passionate about bringing my ideas to life through code.Eager to grow, share insights, and connect with a community of innovators and developers on GitHub.
+
+I'm a BTech student passionate about bringing my ideas to life through code. Eager to grow, share insights, and connect with a community of innovators and developers on GitHub.
+
+&nbsp;&nbsp;🛠 **Currently Working On:**  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔒 **Smart Contracts** | Tech Stack: **Solidity**, **Hardhat**, **Ethers.js**, **MetaMask** — [**`Dzon`**](https://github.com/Mannan-Ali/Dzon)  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚙️ **Backend System** | Tech Stack: **MongoDB**, **AWS**, **Express**, **Multer** — [**`CollectiveHub`**](https://github.com/Mannan-Ali)  
+
+<br/>
+
+⚡**Fun Fact:** Coding isn’t just a skill for me; it’s how I accidentally break things before I fix them.
 
 <br/>
 
