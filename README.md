@@ -3,7 +3,10 @@
 **`Tech Artisan | MERN & Ethereum Developer`**
 
 
-I'm a BTech student passionate about bringing my ideas to life through code. Eager to grow, share insights, and connect with a community of innovators and developers on GitHub.
+I'm a BTech student passionate about growing, sharing insights, and connecting with a community of innovators and developers on GitHub.
+
+<br/>
+
 
 &nbsp;&nbsp;🛠 **Currently Working On:**  
 
