@@ -53,7 +53,7 @@ I'm a BTech student passionate about growing, sharing insights, and connecting w
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mannan-Ali&layout=compact&theme=transparent&card_width=470)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mannan-Ali&layout=compact&theme=transparent&card_width=460)
 
 
 
