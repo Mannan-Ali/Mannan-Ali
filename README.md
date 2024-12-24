@@ -10,9 +10,11 @@ I'm a BTech student passionate about growing, sharing insights, and connecting w
 
 &nbsp;&nbsp;🛠 **Currently Working On:**  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔒 **Smart Contracts** | Tech Stack: **Solidity**, **Hardhat**, **Ethers.js**, **MetaMask** — [**`Dzon`**](https://github.com/Mannan-Ali/Dzon)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔐 **My Own Blockchain, Coin, and Token** | Tech Stack : **Python**, **Solidity**, **Postman**, **Hardhat**, **Ethers.js**, **MetaMask** — [**`Blockify`**](https://github.com/Mannan-Ali/Blockify) 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚙️ **Backend System** | Tech Stack: **MongoDB**, **AWS**, **Express**, **Multer** — [**`CollectiveHub`**](https://github.com/Mannan-Ali/CollectiveHub)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📦 **Decentralized E-Commerce** | Tech Stack : **Solidity**, **Hardhat**, **Ethers.js**, **MetaMask** — [**`Dzon`**](https://github.com/Mannan-Ali/Dzon)  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚙️ **Backend System** | Tech Stack : **MongoDB**, **AWS**, **Express**, **Multer** — [**`CollectiveHub`**](https://github.com/Mannan-Ali/CollectiveHub)  
 
 <br/>
 
