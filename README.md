@@ -10,9 +10,9 @@ I'm a BTech student passionate about growing, sharing insights, and connecting w
 
 &nbsp;&nbsp;🛠 **Currently Working On:**  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔐 **My Own Blockchain, Coin, and Token** | Tech Stack : **Python**, **React**, **Solidity**, **Postman**, **Hardhat**, **Ethers.js**, **MetaMask** — [**`Blockify`**](https://github.com/Mannan-Ali/Blockify) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔐 **Blockchain-Based Memory Sharing Platform** | Tech Stack : **React**, **Solidity**, **IPFS**, **Hardhat**, **Ethers.js**, **MetaMask** — [**`SnapChain`**](https://github.com/Mannan-Ali/SnapChain) 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚙️ **Backend System** | Tech Stack : **MongoDB**, **AWS**, **Express**, **Multer** — [**`CollectiveHub`**](https://github.com/Mannan-Ali/CollectiveHub)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚙️ ** Real-Time Indian Sign Language to Text Converter** | Tech Stack : **Python**, **Flask**, **TensorFlow**, **MediaPipe**, **React** — [**`CollectiveHub`**](https://github.com/Mannan-Ali/CollectiveHub)  
 
 <br/>
 
