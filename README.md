@@ -12,7 +12,7 @@ I'm a BTech student passionate about growing, sharing insights, and connecting w
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔐 **Blockchain-Based Memory Sharing Platform** | Tech Stack : **React**, **Solidity**, **IPFS**, **Hardhat**, **Ethers.js**, **MetaMask** — [**`SnapChain`**](https://github.com/Mannan-Ali/SnapChain) 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚙🧠 **Real-Time Sign to Text Converter** | Tech Stack : **Python**, **Flask**, **TensorFlow**, **MediaPipe**, **React** — [**`SignWays`**](https://github.com/Mannan-Ali/IndianSignLanguage)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧠 **Real-Time Sign to Text Converter** | Tech Stack : **Python**, **Flask**, **TensorFlow**, **MediaPipe**, **React** — [**`SignWays`**](https://github.com/Mannan-Ali/IndianSignLanguage)  
 
 <br/>
 
