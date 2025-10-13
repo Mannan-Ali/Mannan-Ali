@@ -54,5 +54,8 @@ I'm a BTech student passionate about growing, sharing insights, and connecting w
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mannan-Ali&layout=compact&theme=transparent&card_width=460)
 
+<br>
 
+## 🏅 Holopin Badges
 
+[![An image of @_mack_vm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/_mack_vm)](https://holopin.io/@_mack_vm)
