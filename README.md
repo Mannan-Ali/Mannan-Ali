@@ -42,7 +42,7 @@
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mannan-Ali&layout=compact&theme=transparent&card_width=460)
+[![Top Langs](https://gh-stats.deoxy.dev/api/top-langs/?username=Mannan-Ali&layout=compact&theme=transparent&card_width=460)](https://github.com/Mannan-Ali)
 
 <br>
 
